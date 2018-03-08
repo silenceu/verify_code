@@ -1,0 +1,8 @@
+# verify_code
+========
+###使用pillow库进行随机的验证码图片生成
+
+- 结果
+![](result_1.png]
+![](result_2png]
+![](result_3.png]
