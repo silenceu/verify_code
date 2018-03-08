@@ -4,7 +4,5 @@
 
   - 结果
     - ![](result_1.png)
-
-   -  ![](result_2.png)
-
-   -  ![](result_3.png)
+    -  ![](result_2.png)
+    -  ![](result_3.png)
