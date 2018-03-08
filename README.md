@@ -1,6 +1,6 @@
 # verify_code
 
-## 使用pillow库进行随机的验证码图片生成
+## 使用python进行随机的验证码图片生成
 
   - 结果
     - ![](result_1.png)
