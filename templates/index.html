@@ -1,0 +1,19 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>验证码</title>
+</head>
+<body>
+    <ul>
+        <li><img src="{% static "code.png" %}" alt="code"/></li>
+        <li>
+            <form  action="/check" method="post"> {% csrf_token %}
+                        {{ form }}
+                <input type="submit" value="检查"/>
+            </form>
+        </li>
+    </ul>
+</body>
+</html>
